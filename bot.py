@@ -28,7 +28,7 @@ ABOUT_TEXT = """--**About Me**--
 - **Creator :** [Vivek](https://telegram.me/Vivek_KERALA)
 - **Credits :** `Everyone in this journey`
 - **Source :** [Click here](https://github.com/kimaiy0/Info-Bot)
-- **Language :** [Python2](https://python.org)
+- **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)"""
 
